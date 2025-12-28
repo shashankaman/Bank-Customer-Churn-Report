@@ -1,4 +1,13 @@
-## 6️⃣ Bank Customer Churn Report
+## Bank Customer Churn Report
+
+### 📌 About This Project
+
+This project focuses on customer churn analysis in the banking domain, where retaining customers is critical to revenue and long-term growth. The objective was to identify high-risk customer segments and understand the factors influencing churn.
+
+The dashboard segments customers based on behavior and demographics, enabling targeted retention strategies. KPIs are designed to clearly communicate churn risk and customer engagement levels to business teams.
+
+This project demonstrates my ability to work on BFSI analytics use cases, combining data preparation, segmentation, and insight-driven reporting.
+
 
 ### 📌 Business Problem (WHY)
 
@@ -35,4 +44,5 @@ Customer churn directly impacts bank revenue and growth. Banks need early identi
 ### 🚀 Business Impact
 
 Enables banks to design targeted retention campaigns and reduce revenue loss.
+
 
